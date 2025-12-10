@@ -296,6 +296,7 @@ export default function Home() {
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-300"
               />
+              {/* TODO: Add caption */}
             </div>
           ))}
         </div>
